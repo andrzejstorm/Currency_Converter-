@@ -69,4 +69,10 @@ def plot_currency(base_currency, target_currency):
         print(value)
 
 
-print(rate_converter(1,'USD','BRL'))
+print(rate_converter(1, 'USD', 'BRL'))
+
+
+plot_currency("USD", "CAD")
+
+
+print(list_currency())
