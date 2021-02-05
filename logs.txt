@@ -1,0 +1,11 @@
+commit 30849900185e18f38820672b369f14fb528153a5
+Author: Andrzej <albac.andres@gmail.com>
+Date:   Thu Feb 4 15:14:32 2021 -0300
+
+    Tested fuctions and added comments to each function header
+
+commit 38bb35612bae0a536e736d7828211ac5c093da23
+Author: Andrzej <albac.andres@gmail.com>
+Date:   Thu Feb 4 15:02:52 2021 -0300
+
+    Added main file and API keys file
